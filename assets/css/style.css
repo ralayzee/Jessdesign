@@ -551,6 +551,10 @@ section {
   border-radius: 8px;
 }
 
+#portfolio .portfolio-wrap a:hover{
+  opacity: 1;
+}
+
 #portfolio .portfolio-wrap h4{
   margin: 10px 0px;
 }
